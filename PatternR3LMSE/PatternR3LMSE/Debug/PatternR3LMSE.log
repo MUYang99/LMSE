@@ -1,0 +1,5 @@
+﻿  PatternR3LMSE.cpp
+f:\3业余爱好\编程\patternr3lmse\patternr3lmse\patternr3lmse.cpp(74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  stdafx.cpp
+  正在生成代码...
+  PatternR3LMSE.vcxproj -> F:\3业余爱好\编程\PatternR3LMSE\Debug\PatternR3LMSE.exe
